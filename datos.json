@@ -73,19 +73,11 @@
         "github": "https://github.com/sssrrrddd"
     },
     {
-        "nombre": "Linea de productos B12",
+        "nombre": "Afeitadora Joe Colombo",
         "fecha": "2022",
-        "signo": "grafico",
-        "descripcion": "Laminas de distintos sabores que contienen B12. Buscan rediseñar el consumo de la B12 de una manera innovadora para incentivar su consumo en quienes necesitan de esta vitamina",
-        "foto": "https://github.com/user-attachments/assets/63e0f36b-4e66-4154-9a79-4f1ba49be959",
-        "github": "https://github.com/sssrrrddd"
-    },
-    {
-        "nombre": "Kabu",
-        "fecha": "2023",
         "signo": "industrial",
-        "descripcion": "Silla hecha con corte cnc y diseñada para que sus piezas sean unidas con piezas impresas en 3d",
-        "foto": "https://github.com/user-attachments/assets/aaaaef62-11bc-4a54-9502-32f172df6fa9",
+        "descripcion": "Afeitadora diseñada a partir del analisis de los proyectos del diseñador Joe Colombo",
+        "foto": "https://github.com/user-attachments/assets/3806edf8-6c77-4fd0-801b-9e7d7e7f5820",
         "github": "https://github.com/sssrrrddd"
     }
 ]
