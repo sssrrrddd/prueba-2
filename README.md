@@ -1,4 +1,4 @@
-# prueba-2![ilustracion](https://github.com/user-attachments/assets/7b66c7ea-6f54-4780-8b1b-66e7ec638eac)
+![1721660707299](https://github.com/user-attachments/assets/57c51aeb-b283-47a5-bec3-be445716c142)# prueba-2![ilustracion](https://github.com/user-attachments/assets/7b66c7ea-6f54-4780-8b1b-66e7ec638eac)
 ![roundespacio](https://github.com/user-attachments/assets/38f3d9ee-7806-4a6a-bc28-c9d4950702d7)
 ![equita](https://github.com/user-attachments/assets/b7e3c9b6-3230-452b-a7e1-55792dab2569)
 ![editorial](https://github.com/user-attachments/assets/caab7367-a8df-436c-be56-bbe92214d737)
@@ -11,3 +11,19 @@
 ![MOBILIARIO](https://github.com/user-attachments/assets/55dfb2b2-4712-4d68-87c9-1f4036095a42)
 ![bfresh_Mesa de trabajo 1](https://github.com/user-attachments/assets/63e0f36b-4e66-4154-9a79-4f1ba49be959)
 ![kabu](https://github.com/user-attachments/assets/aaaaef62-11bc-4a54-9502-32f172df6fa9)
+
+![woofy](https://github.com/user-attachments/assets/f3b8df9c-cc41-4f19-847e-2e9f61bf0480)
+![wheelanddeal](https://github.com/user-attachments/assets/39d91f70-b4f6-4d4c-b8ba-c15e197c0528)
+![roundcollage](https://github.com/user-attachments/assets/1d1f3ff6-7538-430d-b2a0-27e1a4368e68)
+![reciclajecollage](https://github.com/user-attachments/assets/ef30d00e-f23d-4bf5-9149-5dc33505050c)
+![espaciodeestarcollage](https://github.com/user-attachments/assets/30daeab5-1bd1-4caa-b75a-94a085660843)
+![equita](https://github.com/user-attachments/assets/7bdb32c8-6fc1-4480-985c-f88a7b6b8e71)
+
+![1721660707299](https://github.com/user-attachments/assets/60d0c60a-955e-411c-9e41-eb03cb7bc15e)
+
+
+![editorial](https://github.com/user-attachments/assets/b5dd2056-e25f-4f5b-8450-02b0507584e0)
+![biofab](https://github.com/user-attachments/assets/1b53a19c-7593-427a-829a-ca2200c76ccb)
+![bikestopcollage](https://github.com/user-attachments/assets/c6a8409e-454d-4660-a059-423c930f6dbc)
+![b12collage](https://github.com/user-attachments/assets/71bca63c-af33-4ef4-a0d0-ee548f041bc5)
+![afeitadora](https://github.com/user-attachments/assets/f356f85a-26d1-4d6c-a880-5e8cccfdb660)
