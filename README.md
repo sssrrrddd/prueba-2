@@ -9,3 +9,5 @@
 ![afeitadora](https://github.com/user-attachments/assets/3806edf8-6c77-4fd0-801b-9e7d7e7f5820)
 ![roundlogo](https://github.com/user-attachments/assets/781d4bf4-1494-488f-b770-497766ce7130)
 ![MOBILIARIO](https://github.com/user-attachments/assets/55dfb2b2-4712-4d68-87c9-1f4036095a42)
+![bfresh_Mesa de trabajo 1](https://github.com/user-attachments/assets/63e0f36b-4e66-4154-9a79-4f1ba49be959)
+![kabu](https://github.com/user-attachments/assets/aaaaef62-11bc-4a54-9502-32f172df6fa9)
