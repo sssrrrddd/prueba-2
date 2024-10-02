@@ -27,3 +27,4 @@
 ![bikestopcollage](https://github.com/user-attachments/assets/c6a8409e-454d-4660-a059-423c930f6dbc)
 ![b12collage](https://github.com/user-attachments/assets/71bca63c-af33-4ef4-a0d0-ee548f041bc5)
 ![afeitadora](https://github.com/user-attachments/assets/f356f85a-26d1-4d6c-a880-5e8cccfdb660)
+![maqueta](https://github.com/user-attachments/assets/e76d2d98-b571-4cd5-844c-f0c75e52da36)
